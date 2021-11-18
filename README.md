@@ -1,4 +1,8 @@
 ### Hi there 👋
+🔭 I’m currently working on surviving the 1st year of studying at AGH :v: 
+
+Privatly equestrian 🏇 and piano player 🎹
+
 
 <!--
 **McOwska/McOwska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
