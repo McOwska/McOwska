@@ -4,6 +4,8 @@
 Privatly equestrian 🏇 and piano player 🎹
 
 
+:mag: [link do github pages](https://mcowska.github.io/) 
+
 <!--
 **McOwska/McOwska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
