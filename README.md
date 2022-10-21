@@ -1,11 +1,11 @@
-### Hi there 👋
-🔭 I’m currently working on surviving the 1st year of studying at AGH :v: 
+### Hi there, my name is Zuzanna MakowskA 👋
+🔭 I’m currently working on surviving the 2nd year of studying Computer Science and Artificial Inteligence at AGH :v: 
 
 Privatly equestrian 🏇 and piano player 🎹
 
 
 :mag: [link do github pages](https://mcowska.github.io/) 
-:mag: [mental health datasets](https://github.com/McOwska/mental-health-datasets)
+
 
 <!--
 **McOwska/McOwska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
