@@ -1,5 +1,5 @@
 ### Hi there, my name is Zuzanna Makowska 👋
-🔭 I’m currently working on surviving Erasmus exchange at the University of Tartu :snowflake: in Estonia during the 3rd year of studying Computer Science and Artificial Inteligence at AGH :v: 
+🔭 I’m currently working on surviving the 3rd year of studying Computer Science and Artificial Intelligence at AGH :v: 
 
 Privatly a piano player 🎹 and former equestrian 🏇
 
