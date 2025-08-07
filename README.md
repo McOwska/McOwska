@@ -1,7 +1,9 @@
 ### Hi there, my name is Zuzanna Makowska 👋
-🔭 I’m currently working on surviving the 3rd year of studying Computer Science and Artificial Intelligence at AGH :v: 
+🔭  I’ve survived and completed my Bachelor’s degree in Computer Science and Artificial Intelligence at AGH :v: 
 
-Privatly a piano player 🎹 and former equestrian 🏇
+🔜 Starting Master’s in AI and Language at Stockholm University
+
+Privatly a high-altitude hiker 🌋 , piano player 🎹 and former equestrian 🏇
 
 
 <!--
