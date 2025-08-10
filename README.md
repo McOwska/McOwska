@@ -3,7 +3,7 @@
 
 🔜 Starting Master’s in AI and Language at Stockholm University
 
-Privatly a high-altitude hiker 🌋 , piano player 🎹 and former equestrian 🏇
+Privatly a hiker 🌋 , piano player 🎹 and former equestrian 🏇
 
 
 <!--
